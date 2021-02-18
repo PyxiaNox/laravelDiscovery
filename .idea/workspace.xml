@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="first hierarchy for Blade">
-      <change afterPath="$PROJECT_DIR$/app/Models/UserProfile.php" afterDir="false" />
+    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="preventing save before migration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +163,8 @@
       <option name="presentableId" value="Default" />
       <updated>1613668461268</updated>
       <workItem from="1613668462592" duration="492000" />
-      <workItem from="1613669046894" duration="5129000" />
+      <workItem from="1613669046894" duration="5656000" />
+      <workItem from="1613689070671" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="first hierarchy for Blade">
       <created>1613671767650</created>
@@ -181,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613671782541</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="preventing save before migration">
+      <created>1613685995996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613685995996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +196,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first hierarchy for Blade" />
-    <option name="LAST_COMMIT_MESSAGE" value="first hierarchy for Blade" />
+    <MESSAGE value="preventing save before migration" />
+    <option name="LAST_COMMIT_MESSAGE" value="preventing save before migration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="296" key="#Composer" timestamp="1613668471709">
@@ -205,10 +212,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="631" y="315" key="Github.ShareDialog/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671664480" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1613671791075">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1613686000239">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671791075" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613686000239" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1613685150852">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
