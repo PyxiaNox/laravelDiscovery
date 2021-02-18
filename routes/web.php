@@ -17,7 +17,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/env', function ()
-{
-    dd(env('DB_DATABASE'));
+Route::get('/test', function (){
+    return view('test');
 });

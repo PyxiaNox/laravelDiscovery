@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="" />
+    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -123,6 +133,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ofCs6jmWnPUxtSS94lV9GnzgeG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -149,6 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613668461268</updated>
       <workItem from="1613668462592" duration="492000" />
+      <workItem from="1613669046894" duration="2473000" />
     </task>
     <servers />
   </component>
@@ -160,5 +172,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="578" y="296" key="#Composer/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613668471709" />
+    <state x="504" y="241" key="#Notifications" timestamp="1613671675260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="504" y="241" key="#Notifications/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671675260" />
+    <state x="631" y="315" key="Github.ShareDialog" timestamp="1613671664480">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="631" y="315" key="Github.ShareDialog/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671664480" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1613671659506">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671659506" />
   </component>
 </project>
