@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="">
+    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="first hierarchy for Blade">
+      <change afterPath="$PROJECT_DIR$/app/Models/UserProfile.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,13 +133,18 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ofCs6jmWnPUxtSS94lV9GnzgeG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -160,12 +165,32 @@
       <option name="presentableId" value="Default" />
       <updated>1613668461268</updated>
       <workItem from="1613668462592" duration="492000" />
-      <workItem from="1613669046894" duration="2473000" />
+      <workItem from="1613669046894" duration="5129000" />
     </task>
+    <task id="LOCAL-00001" summary="first hierarchy for Blade">
+      <created>1613671767650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613671767650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first hierarchy for Blade">
+      <created>1613671782541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613671782541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first hierarchy for Blade" />
+    <option name="LAST_COMMIT_MESSAGE" value="first hierarchy for Blade" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="296" key="#Composer" timestamp="1613668471709">
@@ -180,9 +205,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="631" y="315" key="Github.ShareDialog/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671664480" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1613671659506">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1613671791075">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671659506" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671791075" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1613685150852">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613685150852" />
   </component>
 </project>
