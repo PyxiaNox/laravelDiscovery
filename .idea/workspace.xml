@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="preventing save before migration">
+    <list default="true" id="559edc67-8fe8-43fd-a46d-aff2c863d7bf" name="Default Changelist" comment="fix migration problem">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ArticleController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/ArticleRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/UserProfile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +169,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -164,7 +188,8 @@
       <updated>1613668461268</updated>
       <workItem from="1613668462592" duration="492000" />
       <workItem from="1613669046894" duration="5656000" />
-      <workItem from="1613689070671" duration="1285000" />
+      <workItem from="1613689070671" duration="1904000" />
+      <workItem from="1613864670803" duration="4684000" />
     </task>
     <task id="LOCAL-00001" summary="first hierarchy for Blade">
       <created>1613671767650</created>
@@ -187,17 +212,37 @@
       <option name="project" value="LOCAL" />
       <updated>1613685995996</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix migration problem">
+      <created>1613691233292</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613691233293</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first hierarchy for Blade" />
     <MESSAGE value="preventing save before migration" />
-    <option name="LAST_COMMIT_MESSAGE" value="preventing save before migration" />
+    <MESSAGE value="fix migration problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix migration problem" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="296" key="#Composer" timestamp="1613668471709">
@@ -208,14 +253,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="504" y="241" key="#Notifications/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671675260" />
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613868933872">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613868933872" />
+    <state x="516" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613865841777">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="516" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613865841777" />
     <state x="631" y="315" key="Github.ShareDialog" timestamp="1613671664480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="631" y="315" key="Github.ShareDialog/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613671664480" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1613686000239">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1613691240410">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613686000239" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1613691240410" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1613685150852">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
